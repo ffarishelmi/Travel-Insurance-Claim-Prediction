@@ -4,8 +4,6 @@
 
 A machine learning project to predict the likelihood of travel insurance claims using various models. It involves data preprocessing, exploratory data analysis, and model evaluation to assist insurance companies in risk assessment and decision-making. Best model results are saved into a sav format file that can be used to deploy to the application.
 
-# Travel Insurance Claim Prediction
-
 ## Project Overview
 
 This project focuses on predicting travel insurance claims using machine learning techniques. The goal is to build a predictive model that helps insurance companies identify the likelihood of a customer filing a claim based on historical data. This can assist companies in risk assessment and creating more tailored insurance products.
